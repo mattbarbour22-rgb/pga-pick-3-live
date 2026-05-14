@@ -1,0 +1,562 @@
+[
+  {
+    "player": "Barty",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Tyrrell Hatton"
+    ]
+  },
+  {
+    "player": "Enright",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "Roche SES",
+    "picks": [
+      "Rory McIlroy",
+      "Scottie Scheffler",
+      "Speith"
+    ]
+  },
+  {
+    "player": "Kitch",
+    "picks": [
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Brom",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "Shaw",
+    "picks": [
+      "Xander Schauffele",
+      "Brooks Koepka",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "Brian Irish",
+    "picks": [
+      "Scottie Scheffler",
+      "M Fitzpatrick",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "Jonesy",
+    "picks": [
+      "Rory McIlroy",
+      "Cameron Young",
+      "Adam Scott"
+    ]
+  },
+  {
+    "player": "Haycock Snr",
+    "picks": [
+      "Corey Conners",
+      "Ludvig Åberg",
+      "Reitan"
+    ]
+  },
+  {
+    "player": "Mal J",
+    "picks": [
+      "Bryson DeChambeau",
+      "Ludvig Åberg",
+      "Fowler"
+    ]
+  },
+  {
+    "player": "Doc Campbell",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Rory McIlroy"
+    ]
+  },
+  {
+    "player": "T Coleman",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Xander Schauffele"
+    ]
+  },
+  {
+    "player": "A Rose",
+    "picks": [
+      "Scottie Scheffler",
+      "JJ Spaun",
+      "Reitan"
+    ]
+  },
+  {
+    "player": "D Haycock",
+    "picks": [
+      "Scottie Scheffler",
+      "Xander Schauffele",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "P Langley",
+    "picks": [
+      "Cameron Young",
+      "Rory McIlroy",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "T Wallace",
+    "picks": [
+      "Scottie Scheffler",
+      "Ludvig Åberg",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "K Ferg",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "JB",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Xander Schauffele"
+    ]
+  },
+  {
+    "player": "D McCarthy",
+    "picks": [
+      "Scottie Scheffler",
+      "Bryson DeChambeau",
+      "N Hojgaard"
+    ]
+  },
+  {
+    "player": "Nath Ferg",
+    "picks": [
+      "Cameron Young",
+      "M Fitzpatrick",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "Muzza T",
+    "picks": [
+      "Tommy Fleetwood",
+      "Ludvig Åberg",
+      "Rory McIlroy"
+    ]
+  },
+  {
+    "player": "D Donnelly",
+    "picks": [
+      "Rory McIlroy",
+      "Tommy Fleetwood",
+      "Gotterup"
+    ]
+  },
+  {
+    "player": "Hancock",
+    "picks": [
+      "Justin Rose",
+      "Tommy Fleetwood",
+      "Tyrrell Hatton"
+    ]
+  },
+  {
+    "player": "B Ashford",
+    "picks": [
+      "Cameron Young",
+      "Rory McIlroy",
+      "Scottie Scheffler"
+    ]
+  },
+  {
+    "player": "Bradley C",
+    "picks": [
+      "Homa",
+      "Bryson DeChambeau",
+      "Min Woo Lee"
+    ]
+  },
+  {
+    "player": "Sloanie",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Justin Thomas"
+    ]
+  },
+  {
+    "player": "R Fowler",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "Sparky",
+    "picks": [
+      "Scottie Scheffler",
+      "Viktor Hovland",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "Barley",
+    "picks": [
+      "Scottie Scheffler",
+      "Patrick Reed",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "Pete Holly",
+    "picks": [
+      "Tommy Fleetwood",
+      "Cameron Young",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "Timmy S",
+    "picks": [
+      "Scottie Scheffler",
+      "Tyrrell Hatton",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Mr Grant",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Greg B",
+    "picks": [
+      "Tommy Fleetwood",
+      "Ludvig Åberg",
+      "Rory McIlroy"
+    ]
+  },
+  {
+    "player": "JD Boy",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "Mr Manson",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "G Ponting",
+    "picks": [
+      "Tommy Fleetwood",
+      "JJ Spaun",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "R McKnight",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Chalkey",
+    "picks": [
+      "Tommy Fleetwood",
+      "JJ Spaun",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "Budgie",
+    "picks": [
+      "Scottie Scheffler",
+      "Tommy Fleetwood",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Lamming",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "A Bull",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Brooks Koepka"
+    ]
+  },
+  {
+    "player": "Lynda R",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "Cam P",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "A Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Wazza SB",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "Mac The Knife",
+    "picks": [
+      "McCarty",
+      "Rory McIlroy",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "Crusader",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "Maccas",
+    "picks": [
+      "Patrick Cantlay",
+      "Burns",
+      "Henley"
+    ]
+  },
+  {
+    "player": "Matt B",
+    "picks": [
+      "Scottie Scheffler",
+      "Tyrrell Hatton",
+      "Jon Rahm"
+    ]
+  },
+  {
+    "player": "The Wrangler",
+    "picks": [
+      "Bryson DeChambeau",
+      "Tommy Fleetwood",
+      "Rory McIlroy"
+    ]
+  },
+  {
+    "player": "AD",
+    "picks": [
+      "Xander Schauffele",
+      "Cameron Young",
+      "Min Woo Lee"
+    ]
+  },
+  {
+    "player": "J Turner",
+    "picks": [
+      "Cameron Young",
+      "Xander Schauffele",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "M Sanders",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "Nick Fitz",
+    "picks": [
+      "Scottie Scheffler",
+      "Woodland",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "M Little",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "T Rowe",
+    "picks": [
+      "Justin Thomas",
+      "Tommy Fleetwood",
+      "Ludvig Åberg"
+    ]
+  },
+  {
+    "player": "J Tilley",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Xander Schauffele"
+    ]
+  },
+  {
+    "player": "Arnie Palmer",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "K. Sanders",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Rory McIlroy"
+    ]
+  },
+  {
+    "player": "L Adams",
+    "picks": [
+      "Cameron Young",
+      "Jon Rahm",
+      "N Hojgaard"
+    ]
+  },
+  {
+    "player": "K McGinness",
+    "picks": [
+      "Rory McIlroy",
+      "Xander Schauffele",
+      "Bryson DeChambeau"
+    ]
+  },
+  {
+    "player": "Baylis",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "D Tucker",
+    "picks": [
+      "Bryson DeChambeau",
+      "Rory McIlroy",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "Kev Martin",
+    "picks": [
+      "Ludvig Åberg",
+      "Brooks Koepka",
+      "Tommy Fleetwood"
+    ]
+  },
+  {
+    "player": "P Mac",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Gotterup"
+    ]
+  },
+  {
+    "player": "J Barbour",
+    "picks": [
+      "Scottie Scheffler",
+      "Burns",
+      "Cameron Young"
+    ]
+  },
+  {
+    "player": "P Lund",
+    "picks": [
+      "Scottie Scheffler",
+      "M Fitzpatrick",
+      "A Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Trump H",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "Griffin"
+    ]
+  },
+  {
+    "player": "John Edge",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Trent W",
+    "picks": [
+      "Scottie Scheffler",
+      "Cameron Young",
+      "M Fitzpatrick"
+    ]
+  },
+  {
+    "player": "Sir Steve",
+    "picks": [
+      "Scottie Scheffler",
+      "Rory McIlroy",
+      "Tyrrell Hatton"
+    ]
+  }
+]
